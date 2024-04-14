@@ -1,0 +1,63 @@
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Whisper&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/public/stylesheets/style.css" />
+    <script src="script.js"></script>
+
+    <title>TELoveStories</title>
+  </head>
+
+  <body>
+    <div
+      class="overall-screen"
+      style="background-image: url('./images/TandE.jpeg');"
+    >
+      <form action="/submit" method="POST" class="content-box">
+        <input
+          type="number"
+          name="seat_number"
+          id="seat_number"
+          placeholder="Input Seat number here"
+          class="number-input"
+          inputmode="numeric"
+          required
+        />
+        <button type="submit" id="submitButton">Confirm RSVP</button>
+      </form>
+    </div>
+    <div class="cover"></div>
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        const code = "{{code}}";
+        const name = "{{Name}}";
+        const contact = "{{contact}}";
+        const base = "{{base}}"
+        if(!base) {
+          if(code) {
+            swal({
+              title: name,
+              text: `${code}`
+            })
+          } else {
+            swal ({
+              title: "Oops! Code does not exist.",
+              icon: "error"
+            })
+        }
+        }
+
+    </script>
+    <script src="script.js"></script>
+  </body>
+
+</html>

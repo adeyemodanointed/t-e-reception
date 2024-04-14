@@ -1,0 +1,96 @@
+
+*, body {
+  margin: 0;
+  font-family: "Whisper", cursive;
+  font-weight: bolder;
+  font-style: normal;
+}
+/* Chrome, Edge, Safari */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.overall-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./images/TandE.jpeg');
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.content-box {
+  max-width: 400px;
+  max-height: 400px;
+  margin-block: 16px;
+  width: 80%;
+  height: 300px;
+  background-color: #066668;
+  padding: 16px;
+  align-self: center;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  opacity: 0.3;
+  /* position: relative; */
+}
+
+.number-input{
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 24px;
+}
+
+button {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: none;
+  align-self: center;
+  width: 200px;
+  color: #066668;
+  font-weight: bolder;
+  font-size: 24px;
+  background-color: white;
+}
+
+button:active {
+  background-color: rgb(3, 49, 42);
+  color: white;
+}
+
+h2 {
+  color: white;
+  margin-bottom: 10px;
+  align-self: center;
+  visibility:hidden;
+}
+
+.swal-title {
+  font-size: 3rem !important;
+}
+
+.swal-text {
+  font-size: 2rem !important;
+}
