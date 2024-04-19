@@ -120,7 +120,7 @@
 
 {"Name":"Vector","code":"ET-061","contact":"09082952596"},
 
-{"Name":"Femi","code":"ET-062","contact":"08137241008"},
+{"Name":"Jola","code":"ET-062","contact":"2348096585912"},
 
 {"Name":"Jumoke","code":"ET-063","contact":"08135371861"},
 
@@ -148,7 +148,7 @@
 
 {"Name":"Peace Ugwuja","code":"ET-075","contact":"07060539695"},
 
-{"Name":"Gbemi Ajagunna","code":"ET-076","contact":"08135560259"},
+{"Name":"Miss  Doyin","code":"ET-076","contact":"2348148701492"},
 
 {"Name":"Dolapo Ajagunna","code":"ET-077","contact":"08108408594"},
 
@@ -158,9 +158,9 @@
 
 {"Name":"Omolola","code":"ET-080","contact":"09079752402"},
 
-{"Name":"Ayodele","code":"ET-081","contact":"08144202480"},
+{"Name":"Pastor Akin","code":"ET-081","contact":"+2348062379740"},
 
-{"Name":"Mr Sec","code":"ET-082","contact":"08163177756"},
+{"Name":"Ayodele","code":"ET-082","contact":"08144202480"},
 
 {"Name":"Mrs Bolaji","code":"ET-083","contact":"08035365960"},
 
@@ -194,11 +194,11 @@
 
 {"Name":"Pelumi","code":"ET-098","contact":"09036349313"},
 
-{"Name":"Ayodeji Goodness","code":"ET-099","contact":"08187209957"},
+{"Name":"Prof","code":"ET-099","contact":"+2347069722808"},
 
-{"Name":"Semilore","code":"ET-100","contact":"0901 123 7202"},
+{"Name":"Tolu","code":"ET-100","contact":"09095960840"},
 
-{"Name":"Oyinyechukwu","code":"ET-101","contact":"0815 472 2344"},
+{"Name":"Oyinyechukwu","code":"ET-101","contact":"08154722344"},
 
 {"Name":"Mrs Urenna","code":"ET-102","contact":"07039820950"},
 
@@ -236,4 +236,4 @@
 
 {"Name":"Tosin adegbenro","code":"ET-119","contact":"+2348186560900"},
 
-{"Name":"Tolu Adegbenro","code":"ET-120","contact":"+2348098578010"}]
+{"Name":"Tosin Akinsulire","code":"ET-120","contact":"+2348060714694"}]
