@@ -236,4 +236,6 @@
 
 {"Name":"Tosin adegbenro","code":"ET-119","contact":"+2348186560900"},
 
-{"Name":"Tosin Akinsulire","code":"ET-120","contact":"+2348060714694"}]
+{"Name":"Tosin Akinsulire","code":"ET-120","contact":"+2348060714694"},
+
+{"Name":"Paris Gram Ma","code":"ET-121","contact":"08062361060"}]
