@@ -42,6 +42,7 @@
         const name = "{{Name}}";
         const contact = "{{contact}}";
         const base = "{{base}}"
+        const error = "{{error}}"
         if(!base) {
           if(code) {
             swal({
@@ -50,7 +51,7 @@
             })
           } else {
             swal ({
-              title: "Oops! Code does not exist.",
+              title: error,
               icon: "error"
             })
         }
