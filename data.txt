@@ -238,4 +238,16 @@
 
 {"Name":"Tosin Akinsulire","code":"ET-120","contact":"+2348060714694"},
 
-{"Name":"Paris Gram Ma","code":"ET-121","contact":"08062361060"}]
+{"Name":"Paris Gram Ma","code":"ET-121","contact":"08062361060"},
+
+{"Name":"Ifeoluwa","code":"ET-122","contact":"+2348109307553"},
+
+{"Name":"Olawale Daniel(M.C.)","code":"ET-123","contact":"+2348102314750"},
+
+{"Name":"Tabitha","code":"ET-124","contact":"07033267669"},
+
+{"Name":"Miss Adejumoke","code":"ET-125","contact":"+2347038900397"},
+
+{"Name":"Mr Efe","code":"ET-126","contact":"08114278685"},
+
+{"Name":"Mrs Juliana","code":"ET-127","contact":"+2348086220883"}]
